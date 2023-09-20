@@ -1,4 +1,4 @@
-DYNA
+Client Server Network Simulation
 ====
 
 Models a client-server application.
@@ -9,8 +9,7 @@ Demonstrates:
  - using WATCH()
  - star topology (with the number of modules passed as parameters)
 
-Dyna is a model of a simple client-server network. The network contains
-several clients and one server interconnected via a switch.
+
 
 The number of clients is configurable. Each client computer periodically
 connects to the server for data exchange. In each connection, the client
